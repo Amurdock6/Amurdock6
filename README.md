@@ -13,4 +13,4 @@ Hi there, I'm Alex Murdock 👋
 - 💬 Ask me about JavaScript or anything tech-related.
 - 📫 How to reach me: [alexanderrmurdock.com](www.alexanderrmurdock.com)
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Amurdock6&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Amurdock6&layout=compact&theme=dark)
+![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=Amurdock6&layout=compact&theme=midnight-purple)
