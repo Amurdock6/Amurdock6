@@ -8,7 +8,7 @@
 -->
 
 - 🔭 I’m currently working on creating Just Do You Life Coaching's' online presence.
-- 🌱 I’m currently learning Tailwind CSS.
+- 🌱 I’m currently learning Algorithms and Data Structures using Java.
 - 💬 Ask me about JavaScript or anything tech-related.
 - 📫 How to reach me: <a href="mailto:alexanderrmurdock@gmail.com">Email</a>
 
