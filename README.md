@@ -7,7 +7,7 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently developing a 0-60, g-meter, and automotive data tracker android app primarily using kotlin.
+- 🔭 I’m currently developing a 0-60 timer, g-meter, and automotive data tracker android app primarily using kotlin.
 - 🌱 I’m currently learning Algorithms and Data Structures.
 - 💬 Ask me about JavaScript or anything tech-related.
 - 📫 How to reach me: <a href="mailto:alexanderrmurdock@gmail.com">Email</a>
