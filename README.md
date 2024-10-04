@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="www.alexanderrmurdock.com">Alex Murdock</a>👋</h2>
+<h2>Hi there, I'm <a href="[www.alexanderrmurdock.com](https://amurdock6.github.io/)">Alex Murdock</a>👋</h2>
 <!--
 **Amurdock6/Amurdock6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
