@@ -7,8 +7,8 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently developing a 0-60 timer, g-meter, and automotive data tracker android app primarily using kotlin.
-- 🌱 I’m currently learning Django.
+- 🔭 I’m currently developing a all in one automotive Digital Dash for Android.
+- 🌱 I’m currently learning Kotlin and AI powered Development.
 - 💬 Ask me about JavaScript or anything tech-related.
 - 📫 How to reach me: <a href="mailto:alexanderrmurdock@gmail.com">Email</a>
 
